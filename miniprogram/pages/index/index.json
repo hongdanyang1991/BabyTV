@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "guide": "/pages/guide/home/home",
+    "hot": "/pages/hot/home/home",
+    "about": "/pages/about/home/home"
+    
+  }
+}
